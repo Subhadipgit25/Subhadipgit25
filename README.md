@@ -2,66 +2,53 @@
 
 ### Computer Science Undergraduate
 
-I'm a Computer Science Engineer passionate about **Data Structures & Algorithms** and software development. I enjoy solving coding problems, learning new technologies, and building real-world applications.
+I'm a Computer Science undergraduate passionate about **Data Structures & Algorithms**, software development, and building practical applications. I enjoy solving coding problems, learning new technologies, and continuously improving my skills.
 
 ---
 
 ## 🎯 Current Focus
 
-* Data Structures & Algorithms
-* Backend Development
-* Building Real-World Projects
-* Open Source
+* 📚 Data Structures & Algorithms
+* ⚙️ Backend Development
+* 🚀 Building Real-World Projects
+* 🌱 Learning Every Day
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-
-* C
-* C++
-* Java
-* Python
-
-### Backend & Database
-
-* Node.js
-* Spring Boot
-* MongoDB
-* Firebase
-
-### Tools
-
-* Git
-* GitHub
-* REST APIs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,nodejs,spring,mongodb,firebase,git,github,vscode&perline=6" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-📧 Email: **[subhadipduttads@gmail.com](mailto:subhadipduttads@gmail.com)**
+<p align="left">
+<a href="mailto:subhadipduttads@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" />
+</a>
+&nbsp;&nbsp;
 
-💼 LinkedIn: **https://www.linkedin.com/in/subhadip-d-737294373/**
+<a href="https://www.linkedin.com/in/subhadip-d-737294373/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
+&nbsp;&nbsp;
 
-🐦 X (Twitter): **https://x.com/ImSubha25**
+<a href="https://x.com/ImSubha25" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="48" />
+</a>
+</p>
+
+* 📧 **Email:** [subhadipduttads@gmail.com](mailto:subhadipduttads@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/subhadip-d-737294373/
+* 🐦 **X:** https://x.com/ImSubha25
 
 ---
 
+### 💡 Quote
 
-
-<!--
-**Subhadipgit25/Subhadipgit25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"The expert in anything was once a beginner."* 🚀
