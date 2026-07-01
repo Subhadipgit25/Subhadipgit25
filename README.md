@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Subhadip Dutta
 
-### Computer Science Undergraduate
+### Computer Science Engineer
 
-I'm a Computer Science undergraduate passionate about **Data Structures & Algorithms**, software development, and building practical applications. I enjoy solving coding problems, learning new technologies, and continuously improving my skills.
+I'm a Computer Science Engineer passionate about **Data Structures & Algorithms**, software development, and building practical applications. I enjoy solving coding problems, learning new technologies, and continuously improving my skills.
 
 ---
 
