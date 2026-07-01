@@ -49,6 +49,4 @@ I'm a Computer Science Engineer passionate about **Data Structures & Algorithms*
 
 ---
 
-### 💡 Quote
-
-> *"The expert in anything was once a beginner."* 🚀
+### 💡 Quot
