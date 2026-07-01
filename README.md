@@ -48,5 +48,3 @@ I'm a Computer Science Engineer passionate about **Data Structures & Algorithms*
 * 🐦 **X:** https://x.com/ImSubha25
 
 ---
-
-### 💡 Quot
